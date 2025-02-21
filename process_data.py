@@ -31,6 +31,7 @@ def generate_report(file_path, email):
     plt.savefig(os.path.join('reports', f"{email}_sales_trend.png"))
     plt.close()
 
+
     # Save insights as a text report
     insights = f"""
     🔹 Best-Selling Product: {top_product}
