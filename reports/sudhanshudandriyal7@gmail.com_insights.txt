@@ -1,0 +1,6 @@
+
+    🔹 Best-Selling Product: ProductB
+    🔹 New Customers: 2
+    🔹 Repeat Customers: 0
+    🔹 Expected Next Month Sales: ₹nan
+    

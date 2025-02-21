@@ -1,7 +1,11 @@
 branch-defaults:
   main:
-    environment: null
+    environment: groweasy-env
     group_suffix: null
+environment-defaults:
+  groweasy-env:
+    branch: null
+    repository: null
 global:
   application_name: groweasy-analytics
   branch: null

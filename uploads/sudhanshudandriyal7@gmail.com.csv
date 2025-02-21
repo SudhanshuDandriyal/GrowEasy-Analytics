@@ -1,5 +1,3 @@
-date,product,amount
-2024-01-01,Shirt,1000
-2024-01-15,Pants,1500
-2024-02-01,Shirt,1200
-2024-02-15,Pants,1300
+date,product,amount,customer_id
+2024-01-01,ProductA,100,Cust1
+2024-01-02,ProductB,200,Cust2
