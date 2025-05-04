@@ -8,7 +8,7 @@ This project showcases my ability to build end-to-end analytics solutions—from
 ## Features
 - **Data Processing**: Processes sales data to compute monthly trends, top products, customer segmentation, and sales forecasts using pandas and numpy.
 - **Visualization**: Generates dual plots (e.g., monthly sales trends, top products) using matplotlib, displayed on the web interface.
-- **Deployment**: Deployed on AWS EC2 (IP: 172.31.31.244) with Gunicorn; also configured for Elastic Beanstalk.
+- **Deployment**: Deployed on AWS EC2 (xxxxx) with Gunicorn; also configured for Elastic Beanstalk.
 - **Error Handling**: Includes solutions for SMTP authentication errors (e.g., email reports via Gmail) and dependency issues (e.g., Flask installation).
 
 ## Tech Stack
